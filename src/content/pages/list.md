@@ -1,7 +1,7 @@
 ---
 template: about-page
-slug: /about
-title: About Foundation
+slug: /list
+title: 9Б Список литературы на каникулы
 ---
 
 Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
