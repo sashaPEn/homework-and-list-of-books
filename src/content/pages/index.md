@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Главная
+tagline: Список литературы и домашние задание¹
+featuredImage: https://niketan108.com/wp-content/uploads/2018/04/Tri-knigi.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Список литературы
+  ctaLink: /list
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+¹ - На период летних каникул на сайте **только** список литературы
