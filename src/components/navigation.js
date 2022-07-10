@@ -8,19 +8,19 @@ import Theme from "../components/theme"
 const MenuItems = [
   {
     path: "/",
-    title: "Home",
+    title: "Главная",
   },
   {
-    path: "/about",
-    title: "About",
+    path: "/list",
+    title: "Список литературы на каникулы",
   },
   {
-    path: "/blog",
-    title: "Blog",
+    path: "/news",
+    title: "Новости",
   },
   {
-    path: "/contact",
-    title: "Contact",
+    path: "https://feedback.9bstolingymnasium.ml",
+    title: "Обратная связь",
   },
 ]
 
