@@ -21,10 +21,9 @@ const NotFound = () => (
             color: "var(--primary-color)",
           }}
         />
-        <h1>Oops we did not expect that to happen</h1>
+        <h1>Страница не найдена</h1>
         <p>
-          Have you wondered into the unknow. Let us help you, Please take a look
-          at below options
+          В мире есть очень много страница и мы думаем вы найдете нужную
         </p>
       </header>
       <Link to="/" className="button">

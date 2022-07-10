@@ -15,7 +15,7 @@ const MenuItems = [
     title: "Список литературы на каникулы",
   },
   {
-    path: "/news",
+    path: "/blog",
     title: "Новости",
   },
   {
