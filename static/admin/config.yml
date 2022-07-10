@@ -64,7 +64,7 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Home"
+      - label: "Главная"
         name: "home"
         file: "src/content/pages/index.md"
         fields:
@@ -89,9 +89,12 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
-      - label: "About"
-        name: "about"
-        file: "src/content/pages/about.md"
+              - name: "ctaLink"
+                label: "CTA Link"
+                widget: "string"
+      - label: "Список литературы на каникулы"
+        name: "list"
+        file: "src/content/pages/list.md"
         fields:
           - {
               label: "Template",
@@ -102,9 +105,9 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Contact"
+      - label: "Обратная связь"
         name: "contact"
-        file: "src/content/pages/contact.md"
+        file: "https://feedback.9bstolingymnasium.ml"
         fields:
           - {
               label: "Template",
