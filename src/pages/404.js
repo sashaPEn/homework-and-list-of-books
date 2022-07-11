@@ -28,7 +28,7 @@ const NotFound = () => (
       </header>
       <Link to="/" className="button">
         <RiArrowLeftSLine className="icon -left" />
-         Вернуться Назад
+         Вернуться назад
                </Link>
       <Link to="https://feedback.9bstolingymnasium.ml" className="button -outline">
        Сообщите нам об этой странице <RiBugLine className="icon -right" />
