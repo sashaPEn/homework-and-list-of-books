@@ -7,7 +7,7 @@ import Layout from "../components/layout"
 
 const NotFound = () => (
   <Layout className="not-found-page">
-    <Seo title="Page not found" />
+    <Seo title="Страница не найдена" />
     <div
       className="wrapper"
       style={{
@@ -28,11 +28,11 @@ const NotFound = () => (
       </header>
       <Link to="/" className="button">
         <RiArrowLeftSLine className="icon -left" />
-        Back to Homepage
-      </Link>
-      <Link to="/contact" className="button -outline">
-        Report this <RiBugLine className="icon -right" />
-      </Link>
+         Вернуться Назад
+               </Link>
+      <Link to="https://feedback.9bstolingymnasium.ml" className="button -outline">
+       Сообщите нам об этой странице <RiBugLine className="icon -right" />
+      </Link> 
     </div>
   </Layout>
 )
