@@ -43,13 +43,8 @@ export const pageQuery = graphql`
           ctaText
           ctaLink
         }
-        cta {
-          ctaText
-          ctaLink
-        }
       }
     }
-  }
     posts: allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { template: { eq: "blog-post" } } }
