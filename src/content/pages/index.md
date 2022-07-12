@@ -7,8 +7,7 @@ featuredImage: /assets/0-36.jpg
 cta:
   ctaText: Список литературы
   ctaLink: /list
-  ctaText: Домашние задание
-  ctaLink: /homework
+
 ---
 ¹ - На период летних каникул на сайте **только** список литературы
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1182998806587710" crossorigin="anonymous"></script>
