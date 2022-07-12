@@ -5,7 +5,7 @@ title: 9Б Список литературы на каникулы
 ---
 <h1>Список литературы на каникулы</h1>
 <a href="https://ilibrary.ru/text/5/p.1/index.html" target="_blank" border="3"></a>
-<table style="width: 803px; height: 201px;">
+<table style="width: 803px; height: 201px;" border="1">
 	<tbody>
 		<tr>
 			<td>№</td>
