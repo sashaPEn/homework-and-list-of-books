@@ -7,9 +7,6 @@ featuredImage: /assets/0-36.jpg
 cta:
   ctaText: Список литературы
   ctaLink: /list
-  cta:
-  ctaText: Список литературы
-  ctaLink: /list
 ---
 ¹ - На период летних каникул на сайте **только** список литературы
 
