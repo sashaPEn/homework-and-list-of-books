@@ -114,7 +114,7 @@ table {
     width: 100%;
 }
 table tr {
-    background: blue;
+    background: white;
     border-bottom: 1px solid
 }
 table th, table td {
