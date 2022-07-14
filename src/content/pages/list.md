@@ -5,7 +5,7 @@ title: 9Б Список литературы на каникулы
 ---
 <h1>Список литературы на каникулы</h1>
 <a href="https://ilibrary.ru/text/5/p.1/index.html" target="_blank" border="3"></a>
-<table style="width: 803px; height: 201px;" border="1">
+<table style="width: 803px; height: 201px;" border="1" class="delivery">
 	<tbody>
 		<tr>
 			<td>№</td>
@@ -100,5 +100,29 @@ title: 9Б Список литературы на каникулы
 <span style="text-align: right;">
 <div style="text-align: start;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 10px; font-style: italic;">обновлено 10.07.2022</span></div>
 </span>
+<style>
+	table.delivery {width: 100%; border: 0px; border-collapse: collapse;}
+table.delivery thead {font-weight: bold;}
+table.delivery td {padding: 0.6rem 1rem; border-bottom: 1px solid #e8e9eb;}
+	@media screen and (max-width: 800px) {
+  table.delivery thead {
+    display: none;
+  }
+  table.delivery tr {
+    display: block;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #e8e9eb;
+  }
+  table.delivery td {
+    display: block;
+    text-align: right;
+  }
+  table.delivery td:before {
+    content: attr(aria-label);
+    float: left;
+    font-weight: bold;
+  }
+}
+	</style>
 
 ![Список литературы на каникулы](https://podruzke.ru/wp-content/uploads/2021/09/0-36.jpg "Список литературы на каникулы")
