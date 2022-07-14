@@ -6,16 +6,17 @@ title: 9Б Список литературы на каникулы
 <h1>Список литературы на каникулы</h1>
 <a href="https://ilibrary.ru/text/5/p.1/index.html" target="_blank" border="3"></a>
 <table style="width: 803px; height: 201px;" border="1" class="delivery">
-	<tbody>
-	<thead>
-		<tr>
+	<table>
+    <thead>
+        <tr>
 			<td>№</td>
 			<td>Автор🙍</td>
 			<td colspan="2">Название произведения&nbsp;</td>
 			<td>Эл. книга&nbsp;</td>
 			<td>Аудиокнига</td>
-		</tr>
-		</thead>
+  </tr>
+    </thead>
+    <tbody>
 		<tr>
 			<td>1</td>
 			<td>Н. А. Заболоцкий<br />
@@ -103,27 +104,43 @@ title: 9Б Список литературы на каникулы
 <div style="text-align: start;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 10px; font-style: italic;">обновлено 10.07.2022</span></div>
 </span>
 <style>
-	table.delivery {width: 100%; border: 0px; border-collapse: collapse;}
-table.delivery thead {font-weight: bold;}
-table.delivery td {padding: 0.6rem 1rem; border-bottom: 1px solid #e8e9eb;}
-	@media screen and (max-width: 800px) {
-  table.delivery thead {
-    display: none;
-  }
-  table.delivery tr {
-    display: block;
-    margin-bottom: 1rem;
-    border-bottom: 2px solid #e8e9eb;
-  }
-  table.delivery td {
-    display: block;
-    text-align: right;
-  }
-  table.delivery td:before {
-    content: attr(aria-label);
-    float: left;
-    font-weight: bold;
-  }
+	* {
+    box-sizing: border-box;
+    font-family: "Avenir", "Helvetica", sans-serif;
+}
+body {
+    background-color: #f9f9f9;
+}
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+table tr {
+    background: white;
+    border-bottom: 1px solid
+}
+table th, table td {
+    padding: 10px 20px;
+}
+@media(max-width: 800px) {
+    table thead {
+        left: -9999px;
+        position: absolute;
+        visibility: hidden;
+    }
+    table tr {
+        border-bottom: 0;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-bottom: 40px;
+    }
+    table td {
+        border: 1px solid;
+        margin: 0 -1px -1px 0;
+        width: 50%;
+    }
 }
 	</style>
 
