@@ -112,7 +112,7 @@ table {
     border-collapse: collapse;
     text-align: left;
     width: 100%;
-		font-color: green;
+		color: green;
 }
 table tr {
     background: white;
