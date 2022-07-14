@@ -7,6 +7,7 @@ title: 9Б Список литературы на каникулы
 <a href="https://ilibrary.ru/text/5/p.1/index.html" target="_blank" border="3"></a>
 <table style="width: 803px; height: 201px;" border="1" class="delivery">
 	<tbody>
+	<thead>
 		<tr>
 			<td>№</td>
 			<td>Автор🙍</td>
@@ -14,6 +15,7 @@ title: 9Б Список литературы на каникулы
 			<td>Эл. книга&nbsp;</td>
 			<td>Аудиокнига</td>
 		</tr>
+		</thead>
 		<tr>
 			<td>1</td>
 			<td>Н. А. Заболоцкий<br />
