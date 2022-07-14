@@ -108,9 +108,6 @@ title: 9Б Список литературы на каникулы
     box-sizing: border-box;
     font-family: "Avenir", "Helvetica", sans-serif;
 }
-body {
-    background-color: #f9f9f9;
-}
 table {
     border-collapse: collapse;
     text-align: left;
