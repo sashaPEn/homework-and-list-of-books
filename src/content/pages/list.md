@@ -112,6 +112,7 @@ table {
     border-collapse: collapse;
     text-align: left;
     width: 100%;
+		font-color: green;
 }
 table tr {
     background: white;
@@ -137,6 +138,7 @@ table th, table td {
         border: 1px solid;
         margin: 0 -1px -1px 0;
         width: 50%;
+				font-color:red;
     }
 }
 	</style>
