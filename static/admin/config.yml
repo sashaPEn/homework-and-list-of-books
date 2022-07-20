@@ -89,10 +89,6 @@ collections:
               - name: "ctaLink"
                 label: "CTA Link"
                 widget: "string"
-          - label: "CTA"
-            name: "cta"
-            widget: "object"
-            fields:
               - name: "ctaText"
                 label: "CTA text"
                 widget: "string"
