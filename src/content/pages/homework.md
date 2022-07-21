@@ -169,4 +169,4 @@ alert(a);
 }
 </style>
 
-![Домашнее задание](https://i.ytimg.com/vi/GGUAYn0BQX8/maxresdefault.jpg "Домашнее задание")
+![Домашнее задание](https://4esnok.by/wp-content/uploads/2021/09/ljobaz1vbnq.jpg "Домашнее задание")
