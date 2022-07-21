@@ -17,7 +17,6 @@ const Footer = () => (
           <RiHeart2Line />
         </span>{" "}
          <Link to="https://www.9bstolingymnasium.ml/politika">Политика конфедиальности</Link>
-         <img name = 'img' src = 'image1.jpg' />
       </p>
     </div>
   </footer>
