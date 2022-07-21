@@ -145,23 +145,7 @@ alert(a);
 .homework_button{
     height:50px;
     width:400px;
-    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
-   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
-   transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
-       border-radius: 4px;
-   color: #555555;
-   display:block;
-       width:400px;
-       margin: 20px auto;
-   font-size: 14px;
-       text-align:center;
-   height: 50px;
-   line-height: 20px;
-   margin-bottom: 10px;
-   padding: 4px 6px;
-   vertical-align: middle;
-       text-decoration:none;
+
 
 }
 .homework_button:hover, .homework_button:focus {
