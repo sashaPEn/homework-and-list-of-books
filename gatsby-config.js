@@ -102,7 +102,7 @@ module.exports = {
         short_name: `9Б | Список литературы на каникулы`,
         start_url: `/`,
         background_color: `#f7f0eb`,
-        theme_color: `#177ce2`,
+        theme_color: `#006400`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
       },
