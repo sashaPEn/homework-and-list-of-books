@@ -169,4 +169,4 @@ alert(a);
 }
 </style>
 
-![Список литературы на каникулы](https://podruzke.ru/wp-content/uploads/2021/09/0-36.jpg "Список литературы на каникулы")
+![Домашнее задание](https://i.ytimg.com/vi/GGUAYn0BQX8/maxresdefault.jpg "Домашнее задание")
