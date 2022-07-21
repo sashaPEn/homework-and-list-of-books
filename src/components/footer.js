@@ -16,8 +16,8 @@ const Footer = () => (
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
-         <Link to="https://www.9bstolingymnasium.ml">Политика конфедиальности</Link>
-         <img src="./img/js.png"></img>
+         <Link to="https://www.9bstolingymnasium.ml/politika">Политика конфедиальности</Link>
+         <img src="/img/js.png"></img>
       </p>
     </div>
   </footer>
