@@ -1,6 +1,6 @@
 ---
 template: about-page
-slug: /list
+slug: /homework
 title: 9Б Список литературы на каникулы
 ---
 <div class="Homework">
