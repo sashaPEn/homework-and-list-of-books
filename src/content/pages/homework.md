@@ -1,5 +1,4 @@
 ---
-template: index-page
 title: Домашние задание
 slug: /homework
 ---
