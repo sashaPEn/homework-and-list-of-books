@@ -36,7 +36,7 @@ title: 9Б Список литературы на каникулы
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>Н. М. Карамзин</td>
+			<td>Н. М. Карамзин</td> 
 			<td colspan="2">Бедная Лиза<br class="Apple-interchange-newline" />
 			</td>
 			<td><span style="font-size: 14px; color: red; background-color: rgb(255, 255, 255);"><a href="https://ilibrary.ru/text/1087/p.1/index.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
