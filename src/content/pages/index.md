@@ -11,3 +11,18 @@ cta:
 ¹ - На период летних каникул на сайте **только** список литературы
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1182998806587710" crossorigin="anonymous"></script>
+
+
+
+<link rel="stylesheet" type="text/css" href="clippy.css" media="all">
+
+<script src="jquery.1.7.min.js"></script>
+
+<script src="clippy.min.js"></script>
+
+<script type="text/javascript">
+    clippy.load('Merlin', function(agent) {
+        // Do anything with the loaded agent
+        agent.show();
+    });
+</script>
