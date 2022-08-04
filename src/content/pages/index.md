@@ -14,7 +14,7 @@ cta:
 
 
 
-<link rel="stylesheet" type="text/css" href="clippy.css" media="all">
+<link rel="stylesheet" type="text/css" href="css/clippy.css" media="all">
 
 <script src="jquery.1.7.min.js"></script>
 
