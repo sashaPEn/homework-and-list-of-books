@@ -117,7 +117,7 @@ title: 9Б Список литературы на каникулы
 			<td>А. С. Пушкин</td>
 			<td colspan="2">Евгений Онегин</td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/pushkin/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
-			<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/evgenijj-onegin-6/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+			<td><a href="https://knigavuhe.org/book/evgenijj-onegin-6/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
 
 <td><span style="font-size: 14px; color: red;"><a href="https://briefly.ru/pushkin/evgeny_onegin/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a></span></td>
 		</tr>
@@ -126,7 +126,9 @@ title: 9Б Список литературы на каникулы
 <h5> ¹- Слово о полку Игореве это памятник литературы Древней Руси. И существует несколько переводов. Но обычно читают Заболоцкого или Лихачёва</h5>
 <span style="text-align: right;">
 <div style="text-align: start;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 10px; font-style: italic;">обновлено 14.07.2022</span></div>
-</span><a href="https://lib.9bstolingymnasium.ml"><img src="/assets/lib.png"></a
+</span><a href="https://lib.9bstolingymnasium.ml"><img src="/assets/lib.png"></a>
+
+</span><a href="https://briefly.ru"><img src="/assets/briefly.png" width="450" style=" left=650; right=150;"></a>
 
 <style>
 	* {
