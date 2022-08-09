@@ -3,7 +3,7 @@ template: about-page
 slug: /list
 title: 9Б Список литературы на каникулы
 ---
-<table style="width: 803px; height: 201px;" border="1" class="delivery">
+<table>
     <thead>
         <tr>
 			<td>№</td>
