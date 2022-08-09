@@ -110,6 +110,8 @@ title: 9Б Список литературы на каникулы
 			<td colspan="2">Двухсотлетний человек</td>
 			<td><span style="font-size: 14px;"><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/azimov/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></span></td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/dvukhsotletnijj-chelovek-1/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+
+<td><span style="font-size: 14px; color: red;"><a href="https://wiki.briefly.ru/%D0%94%D0%B2%D1%83%D1%85%D1%81%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9*%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA*(%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2)" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a></span></td>
 		</tr>
 		<tr>
 			<td>11</td>
