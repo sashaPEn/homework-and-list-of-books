@@ -12,6 +12,8 @@ title: 9Б Список литературы на каникулы
 			<td colspan="2">Название произведения&nbsp;</td>
 			<td>Эл. книга&nbsp;</td>
 			<td>Аудиокнига</td>
+
+<td>Краткое содержание&nbsp;</td>
   </tr>
     </thead>
     <tbody>
@@ -23,7 +25,12 @@ title: 9Б Список литературы на каникулы
 			</td>
 			<td><a href="https://lib.9bstolingymnasium.ml/zabolockiy/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a><br />
 			</td>
-			<td><a href="https://knigavuhe.org/book/slovo-o-polku-igoreve-1/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></td>
+			<td>
+<a href="https://knigavuhe.org/book/slovo-o-polku-igoreve-1/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a>
+</td>
+
+<td><a href="https://briefly.ru/_/slovo_o_polku_igoreve/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a><br />
+			</td>
 		</tr>
 		<tr>
 			<td>2</td>
@@ -31,6 +38,8 @@ title: 9Б Список литературы на каникулы
 			<td colspan="2">Недоросль</td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/fonvizin/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
 			<td><a href="https://knigavuhe.org/book/nedorosl-1/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></td>
+<td><a href="https://briefly.ru/fonvizin/nedorosl/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a><br />
+			</td>
 		</tr>
 		<tr>
 			<td>3</td>
@@ -39,34 +48,44 @@ title: 9Б Список литературы на каникулы
 			</td>
 			<td><span style="font-size: 14px; color: red; background-color: rgb(255, 255, 255);"><a href="https://lib.9bstolingymnasium.ml/karamzin/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/bednaja-liza/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+<td><a href="https://briefly.ru/karamzin/bednaja_liza/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a><br /></td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>А. С. Грибоедов</td>
 			<td colspan="2">Горе от ума</td>
 			<td><a href="https://lib.9bstolingymnasium.ml/griboedov/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></td>
-			<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/gore-ot-uma-1/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
-		</tr>
+<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/gore-ot-uma-1/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+<td><a href="https://briefly.ru/griboedov/gore_ot_uma/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a><br /></td>
+	               </tr>
 		<tr>
 			<td>5</td>
 			<td>М. Ю. Лермонтов</td>
 			<td colspan="2">Герой нашего времени</td>
 			<td><a href="https://lib.9bstolingymnasium.ml/lermontov/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/gerojj-nashego-vremeni-3/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
-		</tr>
-		<tr>
-			<td>6</td>
-			<td>Н. В. Гоголь</td>
-			<td>Шинель</td>
-			<td rowspan="1" colspan="2"><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/gogol/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
-			<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/shinel/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>А. И. Куприн</td>
-			<td colspan="2">Гранатовый браслет</td>
-			<td><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/kuprin/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
-			<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/granatovyjj-braslet-4/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+<td><a href="https://briefly.ru/lermontov/geroj_nashego_vremeni/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a><br /></td>
+
+</tr>
+	<tr>
+		<td>6</td>
+		<td>Н. В. Гоголь</td>
+		<td>Шинель</td>
+		<td rowspan="1" colspan="2"><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/gogol/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
+		<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/shinel/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+
+<td>
+<span style="font-size: 14px; color: red;"><a href="https://briefly.ru/gogol/shinel/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a></span></tr>
+
+</tr>
+	<tr>
+		<td>7</td>
+		<td>А. И. Куприн</td>
+		<td colspan="2">Гранатовый браслет</td>
+		<td><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/kuprin/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
+		<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/granatovyjj-braslet-4/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+
+<td><span style="font-size: 14px; color: red;"><a href="https://briefly.ru/kuprin/braslet/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a></span></td>
 		</tr>
 		<tr>
 			<td>8</td>
@@ -74,6 +93,8 @@ title: 9Б Список литературы на каникулы
 			<td colspan="2">Обида</td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/shykshin/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://akniga.org/shukshin-vasiliy-obida" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+
+<td><span style="font-size: 14px; color: red;"><a href="https://briefly.ru/shukshin/obida/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a></span></td>
 		</tr>
 		<tr>
 			<td>9</td>
@@ -81,6 +102,8 @@ title: 9Б Список литературы на каникулы
 			<td colspan="2">Пожар</td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/rasputin/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://knigorai.com/books/129652" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+
+<td><span style="font-size: 14px; color: red;"><a href="https://briefly.ru/rasputin/pozhar/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a></span></td>
 		</tr>
 		<tr>
 			<td>10</td>
@@ -95,13 +118,15 @@ title: 9Б Список литературы на каникулы
 			<td colspan="2">Евгений Онегин</td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/pushkin/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/evgenijj-onegin-6/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
+
+<td><span style="font-size: 14px; color: red;"><a href="https://briefly.ru/pushkin/evgeny_onegin/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a></span></td>
 		</tr>
 	</tbody>
 </table>
 <h5> ¹- Слово о полку Игореве это памятник литературы Древней Руси. И существует несколько переводов. Но обычно читают Заболоцкого или Лихачёва</h5>
 <span style="text-align: right;">
 <div style="text-align: start;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 10px; font-style: italic;">обновлено 14.07.2022</span></div>
-</span><a href="https://lib.9bstolingymnasium.ml"><img src="/assets/lib.png"></a>
+</span><a href="https://lib.9bstolingymnasium.ml"><img src="/assets/lib.png"></a
 
 <style>
 	* {
