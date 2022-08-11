@@ -111,8 +111,7 @@ title: 9Б Список литературы на каникулы
 			<td><span style="font-size: 14px;"><span style="font-size: 14px; color: red;"><a href="https://lib.9bstolingymnasium.ml/azimov/web/viewer.html" target="_blank" style="color: rgb(51, 153, 102);">Прочитать</a></span></span></td>
 			<td><span style="font-size: 14px; color: red;"><a href="https://knigavuhe.org/book/dvukhsotletnijj-chelovek-1/" target="_blank" style="color: rgb(51, 153, 102);">Прослушать</a></span></td>
 
-<td><span style="font-size: 14px; color: red;"><a href="" target="_blank" style="color: rgb(51, 153, 102);">Краткого содержания на брифле - нет</a></span></td>
-		</tr>
+<td><span style="font-size: 14px; color: red;"><a href="https://briefly.ru/pushkin/evgeny_onegin/" target="_blank" style="color: rgb(51, 153, 102);">Краткое содержание</a></span></td>		</tr>
 		<tr>
 			<td>11</td>
 			<td>А. С. Пушкин</td>
