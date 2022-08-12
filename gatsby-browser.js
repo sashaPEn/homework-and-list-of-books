@@ -8,4 +8,5 @@ export const onServiceWorkerUpdateReady = () => {
   if (answer === true) {
     window.location.reload()
   }
+  <img src="https://minecraft-inside.ru/uploads/ac/fd/31/209405.png"></img>
 }

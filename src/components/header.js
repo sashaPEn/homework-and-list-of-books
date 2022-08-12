@@ -9,7 +9,9 @@ const Header = ({ children }) => (
     }}
   >
     {children}
+    
   </header>
+  
 )
 
 export default Header
