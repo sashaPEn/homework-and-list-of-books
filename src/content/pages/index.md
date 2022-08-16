@@ -1,9 +1,9 @@
 ---
 template: about-page
 slug: /
-title: Выбирите способ
+title: Выберите способ чтобы посмотреть список литературы 
 ---
-¹ - На период летних каникул на сайте **только** список литературы
+<a href="/homework"><img src="https://e7.pngegg.com/pngimages/939/180/png-clipart-scalable-graphics-computer-icons-illustration-wide-text-logo.png"></a>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1182998806587710" crossorigin="anonymous"></script>
 
