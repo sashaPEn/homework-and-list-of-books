@@ -1,6 +1,6 @@
 ---
 template: index-page
-slug: /
+slug: /home
 title: Главная
 tagline: Список литературы и домашние задание¹
 featuredImage: /assets/0-36.jpg
