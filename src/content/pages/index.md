@@ -5,7 +5,7 @@ title: Выберите способ чтобы посмотреть списо�
 ---
 <div><a href="/homework"><img src="/assets/www_png_1542359.png" width="150px"></a>
 <h5>Через сайт</h5>
-<a href="/homework"><img src="/assets/2gsjgna1uruvUuS7ndh9YqVwYGPLVszbFLwwpAYXYSaZZBvN8zaZyBPhB52VpeXrUa9qt6hCrXzmzAr52VR7TuixNhPiXhk1nWWcNjjqmDoncxbWLe.png" width="150px"></a>
+<a href="https://t.me/iteratureStolinGymnasium_9b_bot"><img src="/assets/2gsjgna1uruvUuS7ndh9YqVwYGPLVszbFLwwpAYXYSaZZBvN8zaZyBPhB52VpeXrUa9qt6hCrXzmzAr52VR7TuixNhPiXhk1nWWcNjjqmDoncxbWLe.png" width="150px"></a>
 <h5>Через telegram-бот</h5></div>
 
 
