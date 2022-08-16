@@ -1,6 +1,7 @@
 ---
+template: index-page
 slug: /
-title: Выбирите способ
+title: Главная
 tagline: Список литературы и домашние задание¹
 featuredImage: /assets/0-36.jpg
 cta:
