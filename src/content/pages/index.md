@@ -3,7 +3,7 @@ template: about-page
 slug: /
 title: Выберите способ чтобы посмотреть список литературы 
 ---
-<a href="/homework"><img src="/assets/web.jfif" width="150px"></a>Через сайт
+<a href="/homework"><img src="/assets/domain_icon-1024x1024.png" width="150px"></a>Через сайт
 
 
 
