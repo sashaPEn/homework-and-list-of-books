@@ -1,4 +1,5 @@
 ---
+template: about-page
 slug: /
 title: Выбирите способ
 ---
