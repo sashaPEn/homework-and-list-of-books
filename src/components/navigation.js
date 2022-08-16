@@ -7,7 +7,7 @@ import Theme from "../components/theme"
 
 const MenuItems = [
   {
-    path: "/",
+    path: "/home",
     title: "Главная",
   },
   {
