@@ -127,7 +127,7 @@ title: 9Б Список литературы на каникулы
 <div style="text-align: start;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 10px; font-style: italic;">обновлено 14.07.2022</span></div>
 </span><a href="https://lib.9bstolingymnasium.ml"><img src="/assets/группа.png"></a>
 
-</span><a href="https://briefly.ru"><img src="/assets/1466783271.jpg" width="450" style=" left=650; right=150;"></a>
+</span>
 
 <style>
 	* {
@@ -169,11 +169,4 @@ table th, table td {
 }
 	</style>
 
-<script type="text/javascript" src="/orphus/orphus.js"></script>
-<a href="//orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="/assets/orphus.gif" border="0" width="257" height="48" /></a>
-<!--<script>
-setTimeout(function(){
-  window.location.href = 'https://404.9bstolingymnasium.ml/index.html';
-}, 1 * 1000);
-</script>-->
 ![Список литературы на каникулы](https://podruzke.ru/wp-content/uploads/2021/09/0-36.jpg "Список литературы на каникулы")
