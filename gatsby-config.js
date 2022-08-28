@@ -98,8 +98,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `9Б | Список литературы на каникулы`,
-        short_name: `9Б | Список литературы на каникулы`,
+        name: `9Б | Домашнее задание`,
+        short_name: `9Б | Домашнее задани`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#006400`,
