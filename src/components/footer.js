@@ -24,7 +24,6 @@ const Footer = () => (
          <Link to="http://creativecommons.org/licenses/by-sa/4.0/"><img 
       //src="https://s3.amazonaws.com/codecademy-content/courses/React/react_photo-goose.jpg"
       src={'/assets/88x31.png'}
-      alt="Canvas Logo"
     /></Link>{" "}
       </p>
     </div>
