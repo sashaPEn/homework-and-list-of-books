@@ -108,8 +108,6 @@ title: 9Б | Домашнее задание
              5.Англисский язык(Людмила Михайловна)-
              6.Русская литература-">Пятница</option>
            </optgroup> -->
-
-
       </select> 
 	</form>
 <input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> 
