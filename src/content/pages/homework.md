@@ -11,7 +11,7 @@ title: 9Б | Домашнее задание
 <p>3.Нажмите кнопку "Посмотреть" </p>
 
 </br>
- <p>Домашнего задания нет</p></br> 
+<!-- <p>Домашнего задания нет</p></br> -->
 
 
 
@@ -112,8 +112,7 @@ title: 9Б | Домашнее задание
 
       </select> 
 	</form>
-<input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> -->
-
+<input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> 
   <br>
 <script>
 function f1(){
