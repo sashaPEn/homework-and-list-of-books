@@ -66,17 +66,13 @@ title: 9Б | Домашнее задание
       </select>
 	</form>
 <input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> 
-  <br>
 <script>
 function f1(){
-var a=document.getElementById('sa1').value;
+var a = document.getElementById('sa1').value;
 alert(a);
 }
-</script></br>
-
+</script>
 <style>
-
-
 .closebtn {
     margin-left: 15px;
     color: white;
@@ -87,7 +83,6 @@ alert(a);
     cursor: pointer;
     transition: 0.3s;
 }
-
 .closebtn:hover {
     color: black;
 }
@@ -96,8 +91,6 @@ alert(a);
 .homework_button{
     height:50px;
     width:400px;
-
-
 }
 .homework_button:hover, .homework_button:focus {
    border-color: rgba(82, 168, 236, 0.8);
@@ -112,7 +105,6 @@ alert(a);
 <style>
 .Homework{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
 }
 .homework_menu{
     height:50px;
