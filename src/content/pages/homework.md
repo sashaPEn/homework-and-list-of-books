@@ -17,9 +17,7 @@ title: 9Б | Домашнее задание
 
 <form>
   <select  name="week" id="sa1" class="homework_menu" class="Homework">
-    
-       
-<optgroup label="Текущая неделя">
+    <optgroup label="Текущая неделя">
         <option  value="05.09.2022 Сентябрь
             1.Химия-
             2.Всемирная история-
