@@ -156,8 +156,6 @@ title: 9Б | Домашнее задание
  
 <script>
 function getValue() {
-    var select = document.getElementById("select_");
-    var value = select.value;
     alert(value);
 }
 </script>
