@@ -14,10 +14,50 @@ title: 9Б | Домашнее задание
 <!-- <p>Домашнего задания нет</p></br> -->
 
 
-
-<form>
-  <select  name="week" id="sa1" class="homework_menu" class="Homework">
-         <optgroup label="Текущая неделя">
+<style>
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.closebtn:hover {
+    color: black;
+}
+</style>
+<style>
+.homework_button{
+    height:50px;
+    width:400px;
+}
+.homework_button:hover, .homework_button:focus {
+   border-color: rgba(82, 168, 236, 0.8);
+   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+   outline: 0 none;
+}
+.homework_menu{
+    height:50px;
+    width:400px;
+}
+</style>
+<style>
+.Homework{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.homework_menu{
+    height:50px;
+    width:400px;
+}
+</style>
+ <form>
+      <form onsubmit="return false">
+ 
+<select id="select_">
+ <optgroup label="Текущая неделя">
           <option  value="05.09.2022 Сентябрь
             1.Химия-
             2.Всемирная история-
@@ -108,74 +148,19 @@ title: 9Б | Домашнее задание
             5.Англисский язык(Татьяна Валерьевна)-
             6.Физкультура и здоровье-
             7.Англисский язык(повыш.)-">Пятница</option>
-          </optgroup>
-     </select>
-     <input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> 
-</form> 
+        </optgroup>
+</select>
+ 
+<input type="submit" value="Отправить" onclick="getValue()">
+</form>
+ 
 <script>
-function f1()
-{
-var a=document.getElementById('sa1').value;
-alert(a);
+function getValue() {
+    var select = document.getElementById("select_");
+    var value = select.value;
+    alert(value);
 }
 </script>
-<style>
-.closebtn {
-    margin-left: 15px;
-    color: white;
-    font-weight: bold;
-    float: right;
-    font-size: 22px;
-    line-height: 20px;
-    cursor: pointer;
-    transition: 0.3s;
-}
-.closebtn:hover {
-    color: black;
-}
-</style>
-<style>
-.homework_button{
-    height:50px;
-    width:400px;
-}
-.homework_button:hover, .homework_button:focus {
-   border-color: rgba(82, 168, 236, 0.8);
-   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
-   outline: 0 none;
-}
-.homework_menu{
-    height:50px;
-    width:400px;
-}
-</style>
-<style>
-.Homework{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.homework_menu{
-    height:50px;
-    width:400px;
-}
-</style>
- <form>
-        <label for="framework">Select a JS Framework</label>
-        <select id="framework">
-            <option value="jhjnjb  ">Angular</option>
-            <option value="2">React</option>
-            <option value="3">Vue.js</option>
-            <option value="4">Ember.js</option>
-        </select>
-        <button id="btn">Get the Selected Index</button>
-    </form>
-    <script>
-        const btn = document.querySelector('#btn');
-        const sb = document.querySelector('#framework')
-        btn.onclick = (event) => {
-            event.preventDefault();
-            // show the selected index
-            alert(sb.selectedIndex);
-        };
-    </script>
+
 
 ![Домашнее задание](https://4esnok.by/wp-content/uploads/2021/09/ljobaz1vbnq.jpg "Домашнее задание")
