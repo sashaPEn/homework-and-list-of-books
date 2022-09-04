@@ -17,8 +17,8 @@ title: 9Б | Домашнее задание
 
 <form>
   <select  name="week" id="sa1" class="homework_menu" class="Homework">
-    <optgroup label="Текущая неделя">
-        <option  value="05.09.2022 Сентябрь
+         <optgroup label="Текущая неделя">
+          <option  value="05.09.2022 Сентябрь
             1.Химия-
             2.Всемирная история-
             3.Математика(пока алгебра)-№3,1
@@ -63,8 +63,8 @@ title: 9Б | Домашнее задание
             6.Физкультура и здоровье-
             7.Англисский язык(повыш.)-">Пятница</option>
           </optgroup>
-          <optgroup label="Следующая неделя">
-        <option  value="05.09.2022 Сентябрь
+         <optgroup label="Следующая неделя">
+           <option  value="05.09.2022 Сентябрь
             1.Химия-
             2.Всемирная история-
             3.Математика(пока алгебра)-№3,1
@@ -109,12 +109,13 @@ title: 9Б | Домашнее задание
             6.Физкультура и здоровье-
             7.Англисский язык(повыш.)-">Пятница</option>
           </optgroup>
-      </select>
-	</form>
+     </select>
+</form>
 <input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> 
 <script>
-function f1(){
-var a = document.getElementById('sa1').value;
+function f1()
+{
+var a=document.getElementById('sa1').value;
 alert(a);
 }
 </script>
