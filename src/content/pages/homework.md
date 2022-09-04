@@ -158,5 +158,24 @@ alert(a);
     width:400px;
 }
 </style>
+ <form>
+        <label for="framework">Select a JS Framework</label>
+        <select id="framework">
+            <option value="jhjnjb  ">Angular</option>
+            <option value="2">React</option>
+            <option value="3">Vue.js</option>
+            <option value="4">Ember.js</option>
+        </select>
+        <button id="btn">Get the Selected Index</button>
+    </form>
+    <script>
+        const btn = document.querySelector('#btn');
+        const sb = document.querySelector('#framework')
+        btn.onclick = (event) => {
+            event.preventDefault();
+            // show the selected index
+            alert(sb.selectedIndex);
+        };
+    </script>
 
 ![Домашнее задание](https://4esnok.by/wp-content/uploads/2021/09/ljobaz1vbnq.jpg "Домашнее задание")
