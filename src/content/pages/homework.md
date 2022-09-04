@@ -110,8 +110,8 @@ title: 9Б | Домашнее задание
             7.Англисский язык(повыш.)-">Пятница</option>
           </optgroup>
      </select>
-</form>
-<input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> 
+     <input  type="button" onclick="f1()" value="Посмотреть" class="homework_button"> 
+</form> 
 <script>
 function f1()
 {
