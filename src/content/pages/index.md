@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: Главная
-tagline: Список литературы и домашние задание
+tagline: "Список литературы "
 featuredImage: /assets/0-36.jpg
 cta:
-  ctaText: Домашнее задание
+  ctaText: Список литературы
   ctaLink: /homework
 ---
 
