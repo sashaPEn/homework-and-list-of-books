@@ -15,10 +15,6 @@ const MenuItems = [
     title: "Список литературы на каникулы",
   },
   {
-    path: "https://homework.9bstolingymnasium.ml",
-    title: "Домашнее задание",
-  },
-  {
     path: "/blog",
     title: "Новости",
   },
